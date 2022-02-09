@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.group1.bankproject"},{"l":"com.group1.bankproject.additionalWork"},{"l":"com.group1.bankproject.bankproduct"},{"l":"com.group1.bankproject.deposit"},{"l":"com.group1.bankproject.login"},{"l":"com.group1.bankproject.manager"}];updateSearchResults();
