@@ -19,9 +19,9 @@
  <br />
 
 ## 📖 Introduction
-<table>
+<table width="100%">
     <tr>
-        <th width="11%">프로젝트 명 </th>
+        <th width="18%">프로젝트 명 </th>
         <th>쌍용은행</th>
         <th>개발기간</th>
         <th>2021.10.21. ~ 2021.11.05.</th>
