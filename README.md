@@ -75,7 +75,7 @@
 ## 🙋 My Role
 
 ### 1. 계좌이체
-![3  이체]("https://user-images.githubusercontent.com/90780701/154630439-5b1f0690-2bc1-44a6-bdbb-04a32cbb864e.png")
+<img width="500" alt="3  이체" src="https://user-images.githubusercontent.com/90780701/154630439-5b1f0690-2bc1-44a6-bdbb-04a32cbb864e.png">
 <img width="500" alt="4  이체결과" src="https://user-images.githubusercontent.com/90780701/154630455-89545680-8645-4218-91f1-f23f393c9879.png">
 
 #### 1.1 계좌이체
