@@ -103,6 +103,7 @@
 
 <img width="508" alt="2  본인인증" src="https://user-images.githubusercontent.com/90780701/154633814-adfc74b4-94a9-470d-84d5-8791aeb5103f.png">
 <img width="509" alt="3  개설 목적확인" src="https://user-images.githubusercontent.com/90780701/154633834-34f6205a-e301-4c9e-bf3d-f66a028fc3b7.png">
+
 #### 3.1 계좌개설
 * 새로운 계좌를 개설할 수 있습니다.
 * 본인인증을 완료하면 개설 목적을 선택합니다.
@@ -110,6 +111,7 @@
 
 ![7  잘못된 비밀번호 입력](https://user-images.githubusercontent.com/90780701/154634658-5a4d81f9-45d8-4704-9a7b-1d277258a95b.png)
 ![이미지 366](https://user-images.githubusercontent.com/90780701/154635253-92833597-505a-41de-bb98-5ca2a935956e.png)
+
 #### 3.2 본인인증 실패
 * 비밀번호와 주민번호를 5회 이상 틀리면 본인 인증에 실패하고 계좌를 개설할 수 없습니다.
 * 주민번호 형식이 다르면 틀린 횟수를 증가시키지 않고 형식이 다르다고 알려줍니다.
