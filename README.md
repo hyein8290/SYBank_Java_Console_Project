@@ -11,7 +11,6 @@
 ## 📌 Table Of Contents
 * [📖 Introduction](#-introduction)
 * [📝 Main Function](#-main-function)
-* [📋 Data Design](#-data-design)
 * [🙋 My Role](#-my-role)
 * [💡 Review](#-review)
 
@@ -73,22 +72,47 @@
 <br />
 <br />
 
-## 📋 Data Design
-
-<br />
-<br />
-
 ## 🙋 My Role
 
 ### 1. 계좌이체
+<img width="500" alt="3  이체" src="https://user-images.githubusercontent.com/90780701/154630439-5b1f0690-2bc1-44a6-bdbb-04a32cbb864e.png">
+<img width="500" alt="4  이체결과" src="https://user-images.githubusercontent.com/90780701/154630455-89545680-8645-4218-91f1-f23f393c9879.png">
+
+#### 1.1 계좌이체
+* 원하는 계좌에 이체를 할 수 있습니다.
+* 원하는 계좌 번호를 입력하면 계좌 소유주를 알려주고 맞는지 확인합니다.
+* 원하는 이체 금액을 선택하고 이체할 계좌를 선택합니다.
+* 선택한 계좌의 잔액이 이체할 금액보다 적으면 이체가 불가합니다.
+* 이체 후 잔액을 알려준 뒤 이체여부를 한 번 더 묻습니다.
+* 이체를 성공하면 완료 메시지를 출력합니다.
 
 <br />
 
 ### 2. 계좌조회
+<img width="512" alt="2  계좌 확인" src="https://user-images.githubusercontent.com/90780701/154633029-495e8286-c4dc-4819-9001-c402a0b34522.png">
+<img width="508" alt="5  계좌 조회 목록 2" src="https://user-images.githubusercontent.com/90780701/154632717-0a2e5584-9a78-4b77-9b11-a6451c08f8df.png">
+
+#### 2.1 계좌조회
+* 고객이 소유한 계좌를 조회할 수 있습니다.
+* 고객이 가지고 있는 계좌 리스트를 보여줍니다.
+* 선택한 계좌를 페이지 형식으로 조회할 수 있습니다.
 
 <br />
 
 ### 3. 계좌개설
+
+<img width="508" alt="2  본인인증" src="https://user-images.githubusercontent.com/90780701/154633814-adfc74b4-94a9-470d-84d5-8791aeb5103f.png">
+<img width="509" alt="3  개설 목적확인" src="https://user-images.githubusercontent.com/90780701/154633834-34f6205a-e301-4c9e-bf3d-f66a028fc3b7.png">
+#### 3.1 계좌개설
+* 새로운 계좌를 개설할 수 있습니다.
+* 본인인증을 완료하면 개설 목적을 선택합니다.
+* 계좌 개설이 완료되면 개설된 계좌 번호를 알려줍니다.
+
+![7  잘못된 비밀번호 입력](https://user-images.githubusercontent.com/90780701/154634658-5a4d81f9-45d8-4704-9a7b-1d277258a95b.png)
+![이미지 366](https://user-images.githubusercontent.com/90780701/154635253-92833597-505a-41de-bb98-5ca2a935956e.png)
+#### 3.2 본인인증 실패
+* 비밀번호와 주민번호를 5회 이상 틀리면 본인 인증에 실패하고 계좌를 개설할 수 없습니다.
+* 주민번호 형식이 다르면 틀린 횟수를 증가시키지 않고 형식이 다르다고 알려줍니다.
 
 <br />
 <br />
